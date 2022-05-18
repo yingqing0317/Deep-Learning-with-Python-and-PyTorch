@@ -34,7 +34,7 @@ b站up：我是土堆
   `conda activate kd`
 * 为你的环境去一个你喜欢的名字
   `python -m ipykernel install --user --name kd --display-name "Python (KD)"`
-* 启动jupyter，在kernel中选择你需要的环境就可以了
+* 启动jupyter，在kernel中选择你需要的环境
 
 ## pycharm找到新添加的环境
 
