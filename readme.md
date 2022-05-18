@@ -27,6 +27,14 @@ b站up：我是土堆
 * 输入``` d: ```（即自己想进入的文件夹）
 * 输入``` jupyter notebook ```
 
+## Jupyter打开特定环境
+* 在原始环境中安装ipykernel
+  `conda install ipykernel`
+* 激活你需要的环境
+  `conda activate kd`
+* 为你的环境去一个你喜欢的名字
+  `python -m ipykernel install --user --name kd --display-name "Python (KD)"`
+* 启动jupyter，在kernel中选择你需要的环境就可以了
 
 ## pycharm找到新添加的环境
 
