@@ -35,6 +35,8 @@ b站up：我是土堆
 * 为你的环境去一个你喜欢的名字
   `python -m ipykernel install --user --name kd --display-name "Python (KD)"`
 * 启动jupyter，在kernel中选择你需要的环境
+* 若打不开jupyter，则需要在创建的新环境中重装jupyter
+  `pip install jupyter`
 
 ## pycharm找到新添加的环境
 
