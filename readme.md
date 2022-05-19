@@ -23,7 +23,7 @@ b站up：我是土堆
 ## Jupyter在特定盘打开
 
 * 打开Anaconda Prompt
-* 激活环境
+* 激活环境（也可进入jupyter之后再选择环境）
 * 输入``` d: ```（即自己想进入的文件夹）
 * 输入``` jupyter notebook ```
 
